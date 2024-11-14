@@ -9,3 +9,6 @@
 🔭 **Current Projects:** Actively building my portfolio with new projects that demonstrate my technical skills and passion for data. Stay tuned for regular updates!
 
 📧 **Let’s Connect:** I’m always open to connecting with others who share similar interests and experiences so feel free to reach out!
+
+👇👇👇 **Don't forget to click below to see some of my work!** 👇👇👇
+
