@@ -1,12 +1,11 @@
 ## Hello World, I am Inma! 👋
 
-💬 Focused on Python, SQL and Power BI. Interested in data gathering methods and best practices for quantitative and qualitative analysis.
+💬 Technical Focus: Python, SQL, and Power BI, with a strong interest in data gathering methods and best practices for quantitative and qualitative analysis. I specialize in securely gathering data, crafting accurate visualizations, and extracting actionable insights that support strategic goals and informed decision making.
 
-💡 A bit about me: I have a background in Criminology and experience as a Project Manager in Cybersecurity. Data is my true passion which is why I moved to a Portfolio Analyst position where I could put my data skills into practice. 
+💡 About Me: My background in Criminology and experience as a Project Manager in Cybersecurity have strengthened my analytical skills and strategic thinking. I transitioned to a Portfolio Analyst role to put my data skills into practice, and I've been honing my expertise in translating complex data into actionable insights.
 
-:dart: My goal is to find a Data Analytics or Business Intelligence role that provides opportunities for growth, where I can leverage my skills in data-driven insights while expanding my expertise toward a future as a Data Scientist.
+🎯 Career Goal: Seeking a Data Analytics or Business Intelligence role that offers opportunities for growth. I’m eager to leverage my skills in data-driven insights and contribute to a team while expanding my knowledge on the path toward becoming a Data Scientist.
 
-📧 I’m always open to connecting with others who share similar interests and experiences so feel free to reach out.
+🔭 Current Projects: Actively building my portfolio with new projects that demonstrate my technical skills and passion for data. Stay tuned for regular updates!
 
-🔭 Currently working on my portfolio, so you’ll notice new projects being added here regularly.
-
+📧 Let’s Connect:  I’m always open to connecting with others who share similar interests and experiences so feel free to reach out!
