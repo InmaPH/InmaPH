@@ -1,6 +1,6 @@
 ## Hello World, I am Inma! 👋
 
-💬 Feel free to reach out if you’d like to discuss Power BI, data gathering methods, or best practices for qualitative and quantitative analysis.
+💬 Focused on Power BI, data gathering methods, or best practices for qualitative and quantitative analysis.
 
 🔭 Currently working on my portfolio, so you’ll notice new projects being added here regularly.
 
